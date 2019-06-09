@@ -1,0 +1,28 @@
+.Contact-us {
+  background: #f2f2f2;
+  color: black;
+  height: 100%;
+  width: 100%;
+  margin-bottom: 2rem; }
+  .Contact-us .form-block {
+    padding: 3rem 9rem 4rem 9rem;
+    background-color: #f8f9fa !important; }
+  @media (max-width: 768px) {
+    .Contact-us .form-block {
+      padding: 3rem; } }
+
+.email-link {
+  font-weight: bolder;
+  color: #33b5ed; }
+
+.block-contact-information {
+  justify-content: center;
+  display: flex;
+  padding-bottom: 2rem; }
+
+.fs-24 {
+  font-size: 25px; }
+
+span.active {
+  font-weight: bolder;
+  color: #88da38; }

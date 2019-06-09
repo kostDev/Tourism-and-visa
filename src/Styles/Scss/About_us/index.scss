@@ -1,0 +1,13 @@
+.jumbotron {
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: #f8f9fa!important;
+}
+
+@media (min-width: 768px){
+  .jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+  }
+}
